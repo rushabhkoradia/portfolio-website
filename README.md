@@ -1,7 +1,7 @@
-# portfolio_website
+# Portfolio Website
 This is my portfolio website where I have tried to cover almost all the concepts of <b><i>HTML, CSS &amp; JavaScript</i></b>. It contains all my information required for people to know me.
 
-You can check out the output <a href="https://rushabhkoradia.github.io/portfolio-website/">HERE</a>.
+You can check out the output <a href="https://git.io/Juqzo">HERE</a>.
 
 <p>You can follow me on:</p>
 <ul>
