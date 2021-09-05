@@ -3,6 +3,8 @@ This is my portfolio website where I have tried to cover almost all the concepts
 
 You can check out the output <a href="https://git.io/Juqzo">HERE</a>.
 
+## Concepts cleared in this project: ##
+
 <p>You can follow me on:</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/rushabh-koradia/">LinkedIn</a>
