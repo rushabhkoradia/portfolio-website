@@ -12,6 +12,7 @@ You can check out the demo <a href="https://git.io/Juqzo">HERE</a>.
 > Modals <br>
 > Sliders <br>
 > Dark / Light Mode <br>
+> Favicon
 ***
 ## Follow me on: ##
   <li><a href="https://www.linkedin.com/in/rushabh-koradia/">LinkedIn</a>
