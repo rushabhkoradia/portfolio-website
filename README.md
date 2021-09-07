@@ -11,8 +11,10 @@ You can check out the demo <a href="https://git.io/Juqzo">HERE</a>.
 > Tabs <br>
 > Modals <br>
 > Sliders <br>
+> Scroll to Top <br>
 > Dark / Light Mode <br>
-> Favicon
+> Favicon <br>
+> Visitors Count <br>
 ***
 ## Follow me on: ##
   <li><a href="https://www.linkedin.com/in/rushabh-koradia/">LinkedIn</a>
