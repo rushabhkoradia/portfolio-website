@@ -1048,6 +1048,22 @@ img {
     color: var(--first-color-lighter);
 }
 
+.visitor__counter {
+    font-size: var(--small-font-size);
+    text-align: center;
+    margin-top: var(--mb-3);
+}
+
+.visitor__counter-title {
+    font-size: var(--small-font-size);
+    color:#FFFFFF;
+}
+
+.visitor__count {
+    font-size: var(--small-font-size);
+    color: #FFFFFF;
+}
+
 .footer__copy {
     font-size: var(--smaller-font-size);
     text-align: center;
@@ -1058,7 +1074,8 @@ img {
 .footer__title,
 .footer__subtitle,
 .footer__link,
-.footer__social {
+.footer__social,
+.visitor__counter-title {
     color: #FFFFFF;
 }
 
