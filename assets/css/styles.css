@@ -436,6 +436,7 @@ img {
 }
 
 .about__description {
+    font-size: var(--small-font-size);
     text-align: center;
     margin-bottom: var(--mb-2-5);
 }
@@ -1297,7 +1298,7 @@ img {
     }
 
     .home__content {
-        padding-top: 5.5rem;
+        padding-top: 1rem;
         column-gap: 2rem;
     }
 
