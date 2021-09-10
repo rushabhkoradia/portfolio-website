@@ -108,6 +108,7 @@ body.dark-theme {
 
 html {
     scroll-behavior: smooth;
+    cursor: none;
 }
 
 body {
