@@ -188,7 +188,7 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
 
-/*==================== DARK LIGHT THEME ====================*/
+/*==================== VISITOR COUNT ====================*/
 const counterContainer = document.getElementById('visitor-count');
 updateVisitorCount();
 function updateVisitorCount() {
